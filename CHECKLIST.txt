@@ -58,8 +58,8 @@ Repository
     ✅Minimallyy you should have a commit for each meaningful piece of work
     ✅Must contain README
         ✅describes your project
-        includes images of each of the site's ✅Pages
-        -descibres/shows one interesting piece of html/css you wrote
+        ✅includes images of each of the site's ✅Pages
+        ✅descibres/shows one interesting piece of html/css you wrote
     
 
 Class Requirements
