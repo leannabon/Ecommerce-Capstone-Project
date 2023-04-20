@@ -1,0 +1,70 @@
+✅ for finished items
+
+
+✅ finish main page
+    ✅Must have 
+        ✅  Stand alone image 
+        ✅ 2 Paragraphs of text
+        ✅ Bulleted list; 2+ points
+    ✅ Links
+        ✅Social Media Icons
+        ✅Pages
+            -Register
+            -Login
+            -Products
+            -Checkout
+✅ User registration
+    ✅ Must haves
+        ✅Username
+        ✅password
+        ✅Password confirmation
+        ✅email field
+        ✅Radio buttons
+        ✅HTML attributes
+✅ User Login
+     ✅ Must haves 
+        ✅Username and password field
+        ✅Remember me checkbox
+        ✅HTML validation attributes  
+✅ Products
+    ✅ Must haves
+        ✅Bootstrap card w/ images
+        ✅ 6+ Products
+
+✅ Checkout
+    ✅ Must haves
+        ✅Input Fields
+            -Select Field
+        ✅Submit Button
+            -Allows them to be order or added to cart
+        ✅HTML validation
+        ✅3 rows of sample data for items in cart
+
+✅ Other Requirements
+    ✅Code must be in public GitHub Repository
+    ✅Use appropriate directory structure (css,images,scripts folders)
+    ✅Filenames is lowercase and no spaces
+    ✅Consistent Site look
+    ✅Must be responsive
+    ✅Must use proper semantics
+
+Technical Quality
+    -HTML and CSS should be well formatted w/ comments
+    -Code must pass validation:
+        -https://validator.w3.org/nu/
+        -https://jigsaw.w3.org/css-validator/
+    -No errors in the console tab
+
+Repository
+    -Must use Git branches appropriately
+    -Minimallyy you should have a commit for each meaningful piece of work
+    -Must contain README
+        -describes your project
+        -includes images of each of the site's ✅Pages
+        -descibres/shows one interesting piece of html/css you wrote
+    
+
+Class Requirements
+    -Show off website/pages within items
+    -Describe one interesting piece of HTML/CSS/Bootstrap
+    *Answer questions from audience if time permits
