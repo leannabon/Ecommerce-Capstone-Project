@@ -30,7 +30,6 @@
     ✅ Must haves
         ✅Bootstrap card w/ images
         ✅ 6+ Products
-
 ✅ Checkout
     ✅ Must haves
         ✅Input Fields
@@ -39,7 +38,6 @@
             -Allows them to be order or added to cart
         ✅HTML validation
         ✅3 rows of sample data for items in cart
-
 ✅ Other Requirements
     ✅Code must be in public GitHub Repository
     ✅Use appropriate directory structure (css,images,scripts folders)
@@ -49,18 +47,18 @@
     ✅Must use proper semantics
 
 Technical Quality
-    -HTML and CSS should be well formatted w/ comments
+    ✅HTML and CSS should be well formatted w/ comments
     -Code must pass validation:
         -https://validator.w3.org/nu/
         -https://jigsaw.w3.org/css-validator/
-    -No errors in the console tab
+    ✅No errors in the console tab
 
 Repository
-    -Must use Git branches appropriately
-    -Minimallyy you should have a commit for each meaningful piece of work
-    -Must contain README
-        -describes your project
-        -includes images of each of the site's ✅Pages
+    ✅Must use Git branches appropriately
+    ✅Minimallyy you should have a commit for each meaningful piece of work
+    ✅Must contain README
+        ✅describes your project
+        includes images of each of the site's ✅Pages
         -descibres/shows one interesting piece of html/css you wrote
     
 
