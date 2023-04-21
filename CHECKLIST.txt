@@ -46,9 +46,9 @@
     ✅Must be responsive
     ✅Must use proper semantics
 
-Technical Quality
+✅Technical Quality
     ✅HTML and CSS should be well formatted w/ comments
-    -Code must pass validation:
+    ✅Code must pass validation:
         -https://validator.w3.org/nu/
         -https://jigsaw.w3.org/css-validator/
     ✅No errors in the console tab
